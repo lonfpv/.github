@@ -1,2 +1,3 @@
 # .github
-FPV projects
+FPV projects including Betaflight presets.
+
